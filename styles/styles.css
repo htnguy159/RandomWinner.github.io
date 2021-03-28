@@ -1,0 +1,36 @@
+.text-white{
+  color: white;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+.large-text{
+  font-size: 38px;
+}
+
+/* Container holding the image and the text */
+.container {
+  position: relative;
+  text-align: center;
+  color: color;
+}
+
+
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+/* Container holding the image and the text */
+.banner {
+  position: relative;
+  text-align: center;
+  color: color;
+}
+
